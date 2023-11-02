@@ -19,8 +19,7 @@ function addArrays(arr1, arr2) {
    return result;
 }
 
-// Contoh penggunaan:
-const array1 = [2, 4, 3];
+const array1 = [2, 4, 8];
 const array2 = [5, 6, 7];
 
 const sumArray = addArrays(array1, array2);
